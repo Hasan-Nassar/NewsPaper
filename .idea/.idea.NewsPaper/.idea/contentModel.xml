@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Hasan Nassar\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Hasan Nassar\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_NewsPaper.-1500343196.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Hasan Nassar\Desktop\NewsPaper" t="IncludeFlat">
+      <e p="APIGateWay" t="IncludeRecursive">
+        <e p="APIGateWay.csproj" t="IncludeRecursive" />
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="APIGateWay.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Ocelot.json" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+      </e>
+      <e p="NewsPaper" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ConsulExtensions.cs" t="Include" />
+        <e p="Controllers" t="Include">
+          <e p="NewsPaperController.cs" t="Include" />
+        </e>
+        <e p="Core" t="Include">
+          <e p="Dto" t="Include">
+            <e p="AuthorDto.cs" t="Include" />
+          </e>
+          <e p="Entity" t="Include">
+            <e p="Author.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Mapping" t="Include">
+          <e p="MappingProfile.cs" t="Include" />
+        </e>
+        <e p="Migrations" t="Include">
+          <e p="20201103144045_InitialCreate.cs" t="Include" />
+          <e p="20201103144045_InitialCreate.Designer.cs" t="Include" />
+          <e p="AuthorDbContextModelSnapshot.cs" t="Include" />
+        </e>
+        <e p="NewsPaper.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="NewsPaper.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Persistence" t="Include">
+          <e p="Context" t="Include">
+            <e p="AuthorDbContext.cs" t="Include" />
+          </e>
+          <e p="Interfaces" t="Include">
+            <e p="IBaseRepository.cs" t="Include" />
+            <e p="IUnitOfWork.cs" t="Include" />
+          </e>
+          <e p="Repositories" t="Include">
+            <e p="BaseRepositories.cs" t="Include" />
+            <e p="UnitOfWork.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Services" t="Include">
+          <e p="InterFace" t="Include">
+            <e p="IAuthorService.cs" t="Include" />
+          </e>
+          <e p="Service" t="Include">
+            <e p="AuthorService.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Startup.cs" t="Include" />
+      </e>
+      <e p="NewsPaper.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="User" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ConsulExtensions.cs" t="Include" />
+        <e p="Controllers" t="Include">
+          <e p="UserController.cs" t="Include" />
+        </e>
+        <e p="Core" t="Include">
+          <e p="Dto" t="Include">
+            <e p="UserDto.cs" t="Include" />
+          </e>
+          <e p="Entity" t="Include">
+            <e p="User.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Mapping" t="Include">
+          <e p="MappingProfile.cs" t="Include" />
+        </e>
+        <e p="Migrations" t="Include">
+          <e p="20201103114955_InitialCreate.cs" t="Include" />
+          <e p="20201103114955_InitialCreate.Designer.cs" t="Include" />
+          <e p="UserDbContextModelSnapshot.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="User.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Persistence" t="Include">
+          <e p="Context" t="Include">
+            <e p="UserDbContext.cs" t="Include" />
+          </e>
+          <e p="Interfaces" t="Include">
+            <e p="IBaseRepository.cs" t="Include" />
+            <e p="IUnitOfWork.cs" t="Include" />
+          </e>
+          <e p="Repositories" t="Include">
+            <e p="BaseRepository.cs" t="Include" />
+            <e p="UnitOfWork.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Services" t="Include">
+          <e p="InterFace" t="Include">
+            <e p="IUserService.cs" t="Include" />
+          </e>
+          <e p="Service" t="Include">
+            <e p="UserService.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="User.csproj" t="IncludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
