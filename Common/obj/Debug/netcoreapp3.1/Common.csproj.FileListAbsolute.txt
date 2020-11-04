@@ -1,0 +1,9 @@
+C:\Users\Hasan Nassar\Desktop\NewsPaper\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+C:\Users\Hasan Nassar\Desktop\NewsPaper\Common\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\Hasan Nassar\Desktop\NewsPaper\Common\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\Hasan Nassar\Desktop\NewsPaper\Common\obj\Debug\netcoreapp3.1\Common.csprojAssemblyReference.cache
+C:\Users\Hasan Nassar\Desktop\NewsPaper\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+C:\Users\Hasan Nassar\Desktop\NewsPaper\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+C:\Users\Hasan Nassar\Desktop\NewsPaper\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\Hasan Nassar\Desktop\NewsPaper\Common\obj\Debug\netcoreapp3.1\Common.dll
+C:\Users\Hasan Nassar\Desktop\NewsPaper\Common\obj\Debug\netcoreapp3.1\Common.pdb

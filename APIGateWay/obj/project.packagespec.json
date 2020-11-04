@@ -15,7 +15,11 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
-        "projectReferences": {}
+        "projectReferences": {
+          "C:\\Users\\Hasan Nassar\\Desktop\\NewsPaper\\Common\\Common.csproj": {
+            "projectPath": "C:\\Users\\Hasan Nassar\\Desktop\\NewsPaper\\Common\\Common.csproj"
+          }
+        }
       }
     },
     "warningProperties": {

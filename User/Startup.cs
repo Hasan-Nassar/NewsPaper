@@ -1,4 +1,6 @@
 using AutoMapper;
+using Common.Events;
+using Common.RabbitMq;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.EntityFrameworkCore;
@@ -7,6 +9,8 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.OpenApi.Models;
 using User.Persistence.Context;
+using User.Services.Interface;
+using User.Services.Service;
 
 namespace User
 {
@@ -29,6 +33,10 @@ namespace User
                 .AddClasses()
                 .AsMatchingInterface());
             services.AddControllers();
+            
+            services.AddRabbitMq(Configuration);
+            services.AddScoped<IUserService,UserService>();
+            
             
             var x = Configuration.GetConnectionString("Default");
             services.AddDbContext<UserDbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("Default")));

@@ -6,6 +6,6 @@ namespace Author.Core.Entity
     {
 
         public int AuthorId { get; set; }
-        public string AuthorName { get; set; }
+        public string Name { get; set; }
     }
 }

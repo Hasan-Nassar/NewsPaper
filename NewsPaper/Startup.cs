@@ -1,6 +1,14 @@
 using Author.Persistence.Context;
+using Author.Persistence.Interfaces;
+using Author.Persistence.Repositories;
+using Author.Services.Interface;
+using Author.Services.Service;
 using AutoMapper;
+using Common.Commands;
+using Common.Events;
+using Common.RabbitMq;
 using Library;
+using Library.Handler;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.EntityFrameworkCore;
@@ -29,6 +37,10 @@ namespace Author
                 .AsMatchingInterface());
             services.AddControllers();
             
+            services.AddRabbitMq(Configuration);
+            services.AddTransient<IEventHandler<UserCreatedEvent>, UserCreatedEventHandler>();
+            services.AddScoped<IAuthorService,AuthorService>();
+           
             
             var x = Configuration.GetConnectionString("Default");
             services.AddDbContext<AuthorDbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("Default")));

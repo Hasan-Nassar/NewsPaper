@@ -6,8 +6,288 @@
     <projectFile>User/User.csproj</projectFile>
     <projectFile>NewsPaper/NewsPaper.csproj</projectFile>
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="8283be3b-3365-455a-927a-ca0aff114f12" name="Default Changelist" comment="" />
+    <list default="true" id="8283be3b-3365-455a-927a-ca0aff114f12" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.NewsPaper/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIGateWay/bin/Debug/netcoreapp3.1/Common.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIGateWay/bin/Debug/netcoreapp3.1/Common.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIGateWay/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Server.Kestrel.Https.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIGateWay/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIGateWay/bin/Debug/netcoreapp3.1/RabbitMQ.Client.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIGateWay/bin/Debug/netcoreapp3.1/RawRabbit.DependencyInjection.ServiceCollection.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIGateWay/bin/Debug/netcoreapp3.1/RawRabbit.Operations.Publish.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIGateWay/bin/Debug/netcoreapp3.1/RawRabbit.Operations.Subscribe.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIGateWay/bin/Debug/netcoreapp3.1/RawRabbit.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClassLibrary1/Class1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClassLibrary1/ClassLibrary1.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClassLibrary1/obj/ClassLibrary1.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClassLibrary1/obj/ClassLibrary1.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClassLibrary1/obj/ClassLibrary1.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClassLibrary1/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClassLibrary1/obj/Debug/netcoreapp3.1/ClassLibrary1.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClassLibrary1/obj/Debug/netcoreapp3.1/ClassLibrary1.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClassLibrary1/obj/Debug/netcoreapp3.1/ClassLibrary1.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClassLibrary1/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClassLibrary1/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClassLibrary1/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClassLibrary1/obj/rider.project.restore.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Common/Command/IAthnticatedCommand.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Common/Command/ICommand.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Common/Command/ICommandHandler.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Common/Common.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Common/Events/IAuthenticateEvent.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Common/Events/IEvent.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Common/Events/IEventHandler.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Common/Events/UserCreatedEvent.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Common/RabbitMq/Extensions.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Common/RabbitMq/Options.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Common/Services/IServiceHost.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Common/Services/ServiceHost.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Common/bin/Debug/netcoreapp3.1/Common.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Common/bin/Debug/netcoreapp3.1/Common.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Common/bin/Debug/netcoreapp3.1/Common.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Common/obj/Common.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Common/obj/Common.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Common/obj/Common.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Common/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Common/obj/Debug/netcoreapp3.1/Common.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Common/obj/Debug/netcoreapp3.1/Common.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Common/obj/Debug/netcoreapp3.1/Common.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Common/obj/Debug/netcoreapp3.1/Common.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Common/obj/Debug/netcoreapp3.1/Common.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Common/obj/Debug/netcoreapp3.1/Common.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Common/obj/Debug/netcoreapp3.1/Common.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Common/obj/Debug/netcoreapp3.1/Common.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Common/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Common/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Common/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Common/obj/rider.project.restore.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewsPaper/Common/Class1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewsPaper/Common/Common.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewsPaper/Common/obj/Common.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewsPaper/Common/obj/Common.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewsPaper/Common/obj/Common.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewsPaper/Common/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewsPaper/Common/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewsPaper/Handler/UserCreatedEventHandler.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/Common.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/Common.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/Common/obj/Common.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/Common/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Server.Kestrel.Https.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/RabbitMQ.Client.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/RawRabbit.DependencyInjection.ServiceCollection.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/RawRabbit.Operations.Publish.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/RawRabbit.Operations.Subscribe.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/RawRabbit.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/Common.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/Common.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Server.Kestrel.Https.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/RabbitMQ.Client.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/RawRabbit.DependencyInjection.ServiceCollection.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/RawRabbit.Operations.Publish.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/RawRabbit.Operations.Subscribe.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/RawRabbit.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.NewsPaper/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.NewsPaper/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.NewsPaper/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.NewsPaper/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIGateWay/APIGateWay.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/APIGateWay/APIGateWay.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIGateWay/bin/Debug/netcoreapp3.1/APIGateWay.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/APIGateWay/bin/Debug/netcoreapp3.1/APIGateWay.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIGateWay/bin/Debug/netcoreapp3.1/APIGateWay.dll" beforeDir="false" afterPath="$PROJECT_DIR$/APIGateWay/bin/Debug/netcoreapp3.1/APIGateWay.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIGateWay/bin/Debug/netcoreapp3.1/APIGateWay.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/APIGateWay/bin/Debug/netcoreapp3.1/APIGateWay.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIGateWay/obj/APIGateWay.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/APIGateWay/obj/APIGateWay.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIGateWay/obj/Debug/netcoreapp3.1/APIGateWay.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/APIGateWay/obj/Debug/netcoreapp3.1/APIGateWay.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIGateWay/obj/Debug/netcoreapp3.1/APIGateWay.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/APIGateWay/obj/Debug/netcoreapp3.1/APIGateWay.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIGateWay/obj/Debug/netcoreapp3.1/APIGateWay.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/APIGateWay/obj/Debug/netcoreapp3.1/APIGateWay.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIGateWay/obj/Debug/netcoreapp3.1/APIGateWay.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/APIGateWay/obj/Debug/netcoreapp3.1/APIGateWay.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIGateWay/obj/Debug/netcoreapp3.1/APIGateWay.dll" beforeDir="false" afterPath="$PROJECT_DIR$/APIGateWay/obj/Debug/netcoreapp3.1/APIGateWay.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIGateWay/obj/Debug/netcoreapp3.1/APIGateWay.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/APIGateWay/obj/Debug/netcoreapp3.1/APIGateWay.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIGateWay/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/APIGateWay/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIGateWay/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/APIGateWay/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIGateWay/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/APIGateWay/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIGateWay/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/APIGateWay/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsPaper.sln" beforeDir="false" afterPath="$PROJECT_DIR$/NewsPaper.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsPaper/Core/Dto/AuthorDto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/NewsPaper/Core/Dto/AuthorDto.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsPaper/Core/Entity/Author.cs" beforeDir="false" afterPath="$PROJECT_DIR$/NewsPaper/Core/Entity/Author.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsPaper/Mapping/MappingProfile.cs" beforeDir="false" afterPath="$PROJECT_DIR$/NewsPaper/Mapping/MappingProfile.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsPaper/Migrations/20201103144045_InitialCreate.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/NewsPaper/Migrations/20201104133626_Init.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsPaper/Migrations/20201103144045_InitialCreate.cs" beforeDir="false" afterPath="$PROJECT_DIR$/NewsPaper/Migrations/20201104133626_Init.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsPaper/Migrations/AuthorDbContextModelSnapshot.cs" beforeDir="false" afterPath="$PROJECT_DIR$/NewsPaper/Migrations/AuthorDbContextModelSnapshot.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsPaper/NewsPaper.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/NewsPaper/NewsPaper.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsPaper/Persistence/Context/AuthorDbContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/NewsPaper/Persistence/Context/AuthorDbContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsPaper/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/NewsPaper/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsPaper/Services/Service/AuthorService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/NewsPaper/Services/Service/AuthorService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsPaper/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/NewsPaper/Startup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsPaper/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/NewsPaper/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/Humanizer.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll" beforeDir="false" afterPath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll" beforeDir="false" afterPath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll" beforeDir="false" afterPath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll" beforeDir="false" afterPath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll" beforeDir="false" afterPath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll" beforeDir="false" afterPath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll" beforeDir="false" afterPath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll" beforeDir="false" afterPath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll" beforeDir="false" afterPath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll" beforeDir="false" afterPath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll" beforeDir="false" afterPath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll" beforeDir="false" afterPath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll" beforeDir="false" afterPath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll" beforeDir="false" afterPath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll" beforeDir="false" afterPath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll" beforeDir="false" afterPath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll" beforeDir="false" afterPath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll" beforeDir="false" afterPath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll" beforeDir="false" afterPath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll" beforeDir="false" afterPath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll" beforeDir="false" afterPath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/NewsPaper.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/NewsPaper.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/NewsPaper.dll" beforeDir="false" afterPath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/NewsPaper.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/NewsPaper.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/NewsPaper.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll" beforeDir="false" afterPath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll" beforeDir="false" afterPath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll" beforeDir="false" afterPath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll" beforeDir="false" afterPath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll" beforeDir="false" afterPath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll" beforeDir="false" afterPath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll" beforeDir="false" afterPath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll" beforeDir="false" afterPath="$PROJECT_DIR$/NewsPaper/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsPaper/obj/Debug/netcoreapp3.1/NewsPaper.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/NewsPaper/obj/Debug/netcoreapp3.1/NewsPaper.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsPaper/obj/Debug/netcoreapp3.1/NewsPaper.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/NewsPaper/obj/Debug/netcoreapp3.1/NewsPaper.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsPaper/obj/Debug/netcoreapp3.1/NewsPaper.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/NewsPaper/obj/Debug/netcoreapp3.1/NewsPaper.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsPaper/obj/Debug/netcoreapp3.1/NewsPaper.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/NewsPaper/obj/Debug/netcoreapp3.1/NewsPaper.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsPaper/obj/Debug/netcoreapp3.1/NewsPaper.dll" beforeDir="false" afterPath="$PROJECT_DIR$/NewsPaper/obj/Debug/netcoreapp3.1/NewsPaper.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsPaper/obj/Debug/netcoreapp3.1/NewsPaper.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/NewsPaper/obj/Debug/netcoreapp3.1/NewsPaper.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsPaper/obj/NewsPaper.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/NewsPaper/obj/NewsPaper.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsPaper/obj/NewsPaper.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/NewsPaper/obj/NewsPaper.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsPaper/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/NewsPaper/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsPaper/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/NewsPaper/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsPaper/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/NewsPaper/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsPaper/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/NewsPaper/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/Core/Dto/UserDto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/User/Core/Dto/UserDto.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/Core/Entity/User.cs" beforeDir="false" afterPath="$PROJECT_DIR$/User/Core/Entity/User.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/Migrations/20201103114955_InitialCreate.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/User/Migrations/20201104132100_Init.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/Migrations/20201103114955_InitialCreate.cs" beforeDir="false" afterPath="$PROJECT_DIR$/User/Migrations/20201104132100_Init.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/Migrations/UserDbContextModelSnapshot.cs" beforeDir="false" afterPath="$PROJECT_DIR$/User/Migrations/UserDbContextModelSnapshot.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/Persistence/Context/UserDbContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/User/Persistence/Context/UserDbContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/User/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/Services/Service/UserService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/User/Services/Service/UserService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/User/Startup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/User.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/User/User.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/User/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/Humanizer.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll" beforeDir="false" afterPath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll" beforeDir="false" afterPath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll" beforeDir="false" afterPath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll" beforeDir="false" afterPath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll" beforeDir="false" afterPath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll" beforeDir="false" afterPath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll" beforeDir="false" afterPath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll" beforeDir="false" afterPath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll" beforeDir="false" afterPath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll" beforeDir="false" afterPath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll" beforeDir="false" afterPath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll" beforeDir="false" afterPath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll" beforeDir="false" afterPath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll" beforeDir="false" afterPath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll" beforeDir="false" afterPath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll" beforeDir="false" afterPath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll" beforeDir="false" afterPath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll" beforeDir="false" afterPath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll" beforeDir="false" afterPath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll" beforeDir="false" afterPath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll" beforeDir="false" afterPath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll" beforeDir="false" afterPath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll" beforeDir="false" afterPath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll" beforeDir="false" afterPath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll" beforeDir="false" afterPath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll" beforeDir="false" afterPath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll" beforeDir="false" afterPath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll" beforeDir="false" afterPath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/User.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/User.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/User.dll" beforeDir="false" afterPath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/User.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/User.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/User.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll" beforeDir="false" afterPath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/obj/Debug/netcoreapp3.1/User.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/User/obj/Debug/netcoreapp3.1/User.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/obj/Debug/netcoreapp3.1/User.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/User/obj/Debug/netcoreapp3.1/User.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/obj/Debug/netcoreapp3.1/User.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/User/obj/Debug/netcoreapp3.1/User.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/obj/Debug/netcoreapp3.1/User.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/User/obj/Debug/netcoreapp3.1/User.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/obj/Debug/netcoreapp3.1/User.dll" beforeDir="false" afterPath="$PROJECT_DIR$/User/obj/Debug/netcoreapp3.1/User.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/obj/Debug/netcoreapp3.1/User.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/User/obj/Debug/netcoreapp3.1/User.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/obj/User.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/User/obj/User.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/obj/User.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/User/obj/User.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/User/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/User/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/User/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/User/obj/rider.project.restore.info" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,77 +300,93 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/NewsPaper/Persistence/Interfaces/IBaseRepository.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/NewsPaper/Core/Entity/Author.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/A9C37662-579A-499A-A4DE-B3C85349280D/AD/NullReferenceException.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6C6C3E3A-3313-428A-9576-0FCDAE28A7C0/05/bd676f7a/BrokerUnreachableException.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/NewsPaper/Services/Interface/IAuthorService.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/NewsPaper/Persistence/Repositories/UnitOfWork.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/83CE78FD-F0AE-48FC-B739-03E2539736DE/4/ConfigurationBuilder.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6C6C3E3A-3313-428A-9576-0FCDAE28A7C0/05/19aeec7b/Connection.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/NewsPaper/Services/Service/AuthorService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/B9122C9D-8E0F-47D3-9D53-746E4CD7F3B5/20/WebHostBuilder.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NewsPaper/Core/Entity/Author.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NewsPaper/Persistence/Repositories/UnitOfWork.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ClassLibrary1/Class1.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/NewsPaper/Persistence/Repositories/BaseRepositories.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Library/Core/Dto/LibraryDto.cs" />
-        <option value="$PROJECT_DIR$/Library/Persistence/Context/LibraryDbContext.cs" />
-        <option value="$PROJECT_DIR$/Library/Persistence/Repositories/UnitOfWork.cs" />
-        <option value="$PROJECT_DIR$/Library/Persistence/Interfaces/IUnitOfWork.cs" />
-        <option value="$PROJECT_DIR$/Library/Mapping/MappingProfile.cs" />
-        <option value="$PROJECT_DIR$/Library/Extensions.cs" />
-        <option value="$PROJECT_DIR$/Library/appsettings.json" />
-        <option value="$PROJECT_DIR$/Library/Core/Entity/Library.cs" />
-        <option value="$PROJECT_DIR$/APIGateWay/Startup.cs" />
-        <option value="$PROJECT_DIR$/User/Core/Dto/UserDto.cs" />
-        <option value="$PROJECT_DIR$/User/Mapping/MappingProfile.cs" />
-        <option value="$PROJECT_DIR$/Library/Properties/launchSettings.json" />
-        <option value="$PROJECT_DIR$/User/Properties/launchSettings.json" />
-        <option value="$PROJECT_DIR$/User/appsettings.json" />
-        <option value="$PROJECT_DIR$/Library/Startup.cs" />
-        <option value="$PROJECT_DIR$/User/Extensions.cs" />
-        <option value="$PROJECT_DIR$/User/Persistence/Context/UserDbContext.cs" />
-        <option value="$PROJECT_DIR$/User/Persistence/Interfaces/IUnitOfWork.cs" />
-        <option value="$PROJECT_DIR$/User/Persistence/Interfaces/IBaseRepository.cs" />
-        <option value="$PROJECT_DIR$/User/Persistence/Repositories/UnitOfWork.cs" />
-        <option value="$PROJECT_DIR$/User/Persistence/Repositories/BaseRepository.cs" />
-        <option value="$PROJECT_DIR$/User/ConsulExtensions.cs" />
-        <option value="$PROJECT_DIR$/Library/ConsulExtensions.cs" />
-        <option value="$PROJECT_DIR$/Library/Services/Service/LibraryServic.cs" />
-        <option value="$PROJECT_DIR$/User/Services/Interface/IUserServic.cs" />
-        <option value="$PROJECT_DIR$/User/Services/Interface/IUserService.cs" />
-        <option value="$PROJECT_DIR$/User/Services/Service/UserService.cs" />
-        <option value="$PROJECT_DIR$/Library/Controllers/LibraryController.cs" />
-        <option value="$PROJECT_DIR$/User/Controllers/UserController.cs" />
-        <option value="$PROJECT_DIR$/User/Startup.cs" />
-        <option value="$PROJECT_DIR$/Library/Core/Dto/PagingDto.cs" />
-        <option value="$PROJECT_DIR$/Library/Services/Service/LibraryService.cs" />
-        <option value="$PROJECT_DIR$/Library/Services/Interface/ILibraryService.cs" />
-        <option value="$PROJECT_DIR$/Library/Persistence/Repositories/BaseRepositories.cs" />
-        <option value="$PROJECT_DIR$/Library/Persistence/Interfaces/IBaseRepository.cs" />
-        <option value="$PROJECT_DIR$/User/Core/Entity/User.cs" />
-        <option value="$PROJECT_DIR$/NewsPaper/Core/Entity/Author.cs" />
-        <option value="$PROJECT_DIR$/NewsPaper/Core/Dto/AuthorDto.cs" />
-        <option value="$PROJECT_DIR$/NewsPaper/Mapping/MappingProfile.cs" />
-        <option value="$PROJECT_DIR$/NewsPaper/Persistence/Interfaces/IUnitOfWork.cs" />
-        <option value="$PROJECT_DIR$/NewsPaper/Persistence/Context/AuthorDbContext.cs" />
-        <option value="$PROJECT_DIR$/NewsPaper/Persistence/Repositories/BaseRepositories.cs" />
-        <option value="$PROJECT_DIR$/NewsPaper/Persistence/Repositories/UnitOfWork.cs" />
-        <option value="$PROJECT_DIR$/NewsPaper/Startup.cs" />
         <option value="$PROJECT_DIR$/APIGateWay/Ocelot.json" />
         <option value="$PROJECT_DIR$/NewsPaper/Properties/launchSettings.json" />
-        <option value="$PROJECT_DIR$/NewsPaper/appsettings.json" />
-        <option value="$PROJECT_DIR$/NewsPaper/Services/Service/AuthorService.cs" />
-        <option value="$PROJECT_DIR$/NewsPaper/Services/Interface/IAuthorService.cs" />
         <option value="$PROJECT_DIR$/NewsPaper/Controllers/NewsPaperController.cs" />
         <option value="$PROJECT_DIR$/NewsPaper/ConsulExtensions.cs" />
+        <option value="$PROJECT_DIR$/ClassLibrary1/Class1.cs" />
+        <option value="$PROJECT_DIR$/Common/Class1.cs" />
+        <option value="$PROJECT_DIR$/Common/Commands/ICommand.cs" />
+        <option value="$PROJECT_DIR$/Common/Commands/CreateUser.cs" />
+        <option value="$PROJECT_DIR$/Common/Commands/IAthinticatedCommand.cs" />
+        <option value="$PROJECT_DIR$/Common/Commands/CreateAuthor.cs" />
+        <option value="$PROJECT_DIR$/Common/Commands/ICommandHandle.cs" />
+        <option value="$PROJECT_DIR$/Common/Events/IEvent.cs" />
+        <option value="$PROJECT_DIR$/Common/Events/UserCreated.cs" />
+        <option value="$PROJECT_DIR$/Common/Events/Author.cs" />
+        <option value="$PROJECT_DIR$/Common/Events/IEventHandler.cs" />
+        <option value="$PROJECT_DIR$/Common/Command/AthnticateUserCommand.cs" />
+        <option value="$PROJECT_DIR$/Common/Command/AthnticateUser.cs" />
+        <option value="$PROJECT_DIR$/Common/Events/IAuthnticateEvent.cs" />
+        <option value="$PROJECT_DIR$/Common/Events/UserAuthenticate.cs" />
+        <option value="$PROJECT_DIR$/Common/RabbitMq/Options.cs" />
+        <option value="$PROJECT_DIR$/Common/Service/I.cs" />
+        <option value="$PROJECT_DIR$/Common/Service/IServiceHost.cs" />
+        <option value="$PROJECT_DIR$/Common/Service/ServiceHost.cs" />
+        <option value="$PROJECT_DIR$/NewsPaper/Core/Dto/AuthorDto.cs" />
+        <option value="$PROJECT_DIR$/NewsPaper/Services/Interface/IAuthorService.cs" />
+        <option value="$PROJECT_DIR$/Common/Command/CreateAuthor.cs" />
+        <option value="$PROJECT_DIR$/User/Handler/AuthorCreatedHandler.cs" />
+        <option value="$PROJECT_DIR$/NewsPaper/appsettings.json" />
+        <option value="$PROJECT_DIR$/User/appsettings.json" />
+        <option value="$PROJECT_DIR$/User/Core/Dto/UserDto.cs" />
+        <option value="$PROJECT_DIR$/../../../../Program Files/dotnet/sdk/3.1.403/Microsoft.Common.CurrentVersion.targets" />
+        <option value="$PROJECT_DIR$/Common/Command/IAthnticatedCommand.cs" />
+        <option value="$PROJECT_DIR$/Common/Services/IServiceHost.cs" />
+        <option value="$PROJECT_DIR$/Common/Services/ServiceHost.cs" />
+        <option value="$PROJECT_DIR$/User/Persistence/Context/UserDbContext.cs" />
+        <option value="$PROJECT_DIR$/User/Core/Entity/User.cs" />
+        <option value="$PROJECT_DIR$/NewsPaper/Persistence/Context/AuthorDbContext.cs" />
+        <option value="$PROJECT_DIR$/NewsPaper/Core/Entity/Author.cs" />
+        <option value="$PROJECT_DIR$/NewsPaper/Services/Service/AuthorService.cs" />
+        <option value="$PROJECT_DIR$/Common/RabbitMq/Extensions.cs" />
+        <option value="$PROJECT_DIR$/User/Startup.cs" />
+        <option value="$PROJECT_DIR$/User/Program.cs" />
+        <option value="$PROJECT_DIR$/Common/Events/AuthorCreated.cs" />
+        <option value="$PROJECT_DIR$/Common/Events/UserCreatedEvent.cs" />
+        <option value="$PROJECT_DIR$/NewsPaper/Handler/CreateAuthorHandler.cs" />
+        <option value="$PROJECT_DIR$/NewsPaper/Program.cs" />
+        <option value="$PROJECT_DIR$/NewsPaper/Startup.cs" />
+        <option value="$PROJECT_DIR$/User/Services/Service/UserService.cs" />
+        <option value="$PROJECT_DIR$/NewsPaper/Mapping/MappingProfile.cs" />
+        <option value="$PROJECT_DIR$/NewsPaper/Handler/UserCreatedEventHandler.cs" />
+        <option value="$PROJECT_DIR$/Common/Events/IAuthenticateEvent.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1jm1BxM0JexDWOXXgqjcnoQ5s0e" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.3502052" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.3002736" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -157,14 +453,29 @@
       <option name="presentableId" value="Default" />
       <updated>1604394321079</updated>
       <workItem from="1604394322462" duration="18567000" />
+      <workItem from="1604415346860" duration="510000" />
+      <workItem from="1604415884471" duration="8359000" />
+      <workItem from="1604476481079" duration="18306000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
@@ -173,29 +484,116 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1604414746146" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1604415113361">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1604502696183">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604415113361" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1604415113361">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604502696183" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1604502696183">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1604415113361" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1604415113361">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1604502696183" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1604502696183">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1604415113361" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1604415113361">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1604502696183" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1604502696183">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1604415113361" />
-    <state x="361" y="144" key="Rider.ProjectTemplateDialog.Size" timestamp="1604402809600">
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1604502696183" />
+    <state width="1493" height="288" key="GridCell.Tab.1.bottom" timestamp="1604480114489">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="144" key="Rider.ProjectTemplateDialog.Size/0.0.1536.824@0.0.1536.824" timestamp="1604402809600" />
+    <state width="1493" height="288" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604480114489" />
+    <state width="1493" height="288" key="GridCell.Tab.1.center" timestamp="1604480114489">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="288" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1604480114489" />
+    <state width="1493" height="288" key="GridCell.Tab.1.left" timestamp="1604480114489">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="288" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1604480114489" />
+    <state width="1493" height="288" key="GridCell.Tab.1.right" timestamp="1604480114489">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="288" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1604480114489" />
+    <state width="1493" height="288" key="GridCell.Tab.2.bottom" timestamp="1604480114489">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="288" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604480114489" />
+    <state width="1493" height="288" key="GridCell.Tab.2.center" timestamp="1604480114489">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="288" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1604480114489" />
+    <state width="1493" height="288" key="GridCell.Tab.2.left" timestamp="1604480114489">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="288" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1604480114489" />
+    <state width="1493" height="288" key="GridCell.Tab.2.right" timestamp="1604480114489">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="288" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1604480114489" />
+    <state width="1493" height="288" key="GridCell.Tab.3.bottom" timestamp="1604480114489">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="288" key="GridCell.Tab.3.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604480114489" />
+    <state width="1493" height="288" key="GridCell.Tab.3.center" timestamp="1604480114489">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="288" key="GridCell.Tab.3.center/0.0.1536.824@0.0.1536.824" timestamp="1604480114489" />
+    <state width="1493" height="288" key="GridCell.Tab.3.left" timestamp="1604480114489">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="288" key="GridCell.Tab.3.left/0.0.1536.824@0.0.1536.824" timestamp="1604480114489" />
+    <state width="1493" height="288" key="GridCell.Tab.3.right" timestamp="1604480114489">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="288" key="GridCell.Tab.3.right/0.0.1536.824@0.0.1536.824" timestamp="1604480114489" />
+    <state width="1493" height="288" key="GridCell.Tab.4.bottom" timestamp="1604480114489">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="288" key="GridCell.Tab.4.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604480114489" />
+    <state width="1493" height="288" key="GridCell.Tab.4.center" timestamp="1604480114489">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="288" key="GridCell.Tab.4.center/0.0.1536.824@0.0.1536.824" timestamp="1604480114489" />
+    <state width="1493" height="288" key="GridCell.Tab.4.left" timestamp="1604480114489">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="288" key="GridCell.Tab.4.left/0.0.1536.824@0.0.1536.824" timestamp="1604480114489" />
+    <state width="1493" height="288" key="GridCell.Tab.4.right" timestamp="1604480114489">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="288" key="GridCell.Tab.4.right/0.0.1536.824@0.0.1536.824" timestamp="1604480114489" />
+    <state x="361" y="144" key="Rider.ProjectTemplateDialog.Size" timestamp="1604416024608">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="144" key="Rider.ProjectTemplateDialog.Size/0.0.1536.824@0.0.1536.824" timestamp="1604416024608" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1604502862227">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1604502862227" />
+    <state x="93" y="93" width="1350" height="638" key="dock-window-1" timestamp="1604425429976">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1604425429976" />
+    <state x="93" y="93" width="1350" height="638" key="dock-window-2" timestamp="1604425429976">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="dock-window-2/0.0.1536.824@0.0.1536.824" timestamp="1604425429976" />
+    <state x="93" y="93" width="1350" height="638" key="dock-window-3" timestamp="1604425429976">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="dock-window-3/0.0.1536.824@0.0.1536.824" timestamp="1604425429976" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1604414880192">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1604414880192" />
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="Type#System.Collections.Generic.KeyValuePair`2" memberName="Key" />
+      </pinned-members>
+    </pin-to-top-manager>
   </component>
 </project>

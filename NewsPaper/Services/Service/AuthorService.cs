@@ -3,8 +3,7 @@ using System.Threading.Tasks;
 using Author.Core.Dto;
 using Author.Persistence.Interfaces;
 using Author.Services.Interface;
-using AutoMapper;
-using Author.Core.Entity;
+using AutoMapper;    
 using Microsoft.AspNetCore.Mvc;
 
 namespace Author.Services.Service
@@ -28,7 +27,7 @@ namespace Author.Services.Service
             await _unitOfWork.CompleteAsync();
 
             var result = _mapper.Map<Core.Entity.Author, AuthorDto>(author);
-            result.AuthorName = author.AuthorName;
+            result.Name = author.Name;
             return result;
         }
         
@@ -37,7 +36,7 @@ namespace Author.Services.Service
         {
             var author = await _unitOfWork.AuthRepository.GetById(authorId);
             var p = _mapper.Map<Core.Entity.Author, AuthorDto>(author);
-            p.AuthorName =author.AuthorName ;
+            p.Name =author.Name ;
             return p;
         }
         
